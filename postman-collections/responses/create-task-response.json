@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": {
+        "title": "sample task",
+        "description": "sample description",
+        "status": "pending",
+        "user": "68898d4280ec5f7fcf1a2f38",
+        "_id": "688995a397b343e80eb6b316",
+        "createdAt": "2025-07-30T03:46:43.168Z",
+        "updatedAt": "2025-07-30T03:46:43.168Z",
+        "__v": 0
+    }
+}

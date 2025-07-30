@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "688995a397b343e80eb6b316",
+            "title": "sample task",
+            "description": "sample description",
+            "status": "pending",
+            "user": "68898d4280ec5f7fcf1a2f38",
+            "createdAt": "2025-07-30T03:46:43.168Z",
+            "updatedAt": "2025-07-30T03:46:43.168Z",
+            "__v": 0
+        },
+        {
+            "_id": "68898f4b3c5b5d03116237ef",
+            "title": "title one",
+            "description": "description 2 by vivek",
+            "status": "pending",
+            "user": "68898d4280ec5f7fcf1a2f38",
+            "createdAt": "2025-07-30T03:19:39.574Z",
+            "updatedAt": "2025-07-30T03:38:02.384Z",
+            "__v": 0
+        },
+        {
+            "_id": "68898f3f3c5b5d03116237ed",
+            "title": "task 1 by vivek",
+            "description": "description 1 by vivek",
+            "status": "pending",
+            "user": "68898d4280ec5f7fcf1a2f38",
+            "createdAt": "2025-07-30T03:19:27.996Z",
+            "updatedAt": "2025-07-30T03:19:27.996Z",
+            "__v": 0
+        }
+    ]
+}

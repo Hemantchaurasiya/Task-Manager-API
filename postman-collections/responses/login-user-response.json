@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "data": {
+        "user": {
+            "id": "68898d4280ec5f7fcf1a2f38",
+            "name": "vivek",
+            "email": "vivek@gmail.com"
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODk4ZDQyODBlYzVmN2ZjZjFhMmYzOCIsImVtYWlsIjoidml2ZWtAZ21haWwuY29tIiwiaWF0IjoxNzUzODQ3MDc2LCJleHAiOjE3NTM4NTA2NzZ9.P8Q6-DQhVcZea62AcgHzAuXoULxiEBss6qmBUBIAq2M"
+    }
+}

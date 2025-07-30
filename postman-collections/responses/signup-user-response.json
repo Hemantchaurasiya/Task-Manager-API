@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "data": {
+        "user": {
+            "id": "688994c02cd7734c14bf08ec",
+            "name": "hemant",
+            "email": "hemant@gmail.com"
+        },
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODk5NGMwMmNkNzczNGMxNGJmMDhlYyIsImVtYWlsIjoiaGVtYW50QGdtYWlsLmNvbSIsImlhdCI6MTc1Mzg0Njk3NiwiZXhwIjoxNzUzODUwNTc2fQ.KPAQvFt5Y_KaP5U7zm0XWjA-jhiG-nTMqq86eBv8IV4"
+    }
+}
