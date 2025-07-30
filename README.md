@@ -40,6 +40,7 @@ Use Redis for:
 ## Production-Ready Improvements
 These enhancements can prepare the app for real-world deployment:
 
+- No need to push .env file
 - Add DTO (data transfer object) to send data to user.
 - Add refresh token mechanism with rotation and blacklisting
 - Add structured logging (to file or external systems)
