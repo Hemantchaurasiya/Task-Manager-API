@@ -47,3 +47,7 @@ These enhancements can prepare the app for real-world deployment:
 - Add Sentry, Prometheus, or Grafana for error tracking and performance metrics
 - Integrate OAuth2 providers (Google, GitHub)
 - Write unit and integration test cases.
+
+## Sample Curl
+curl --location 'http://localhost:5000/api/tasks/' \
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4ODk4ZDQyODBlYzVmN2ZjZjFhMmYzOCIsImVtYWlsIjoidml2ZWtAZ21haWwuY29tIiwiaWF0IjoxNzUzODQ5MzAwLCJleHAiOjE3NTM4NTI5MDB9.42C6RNtBFI-n6AOS-YCwVRGuR7VylarukFkxPNc0H48'
